@@ -132,3 +132,14 @@ Concept: Inspired by traditional Indian marble game.
 Visuals: Captured from real-life gameplay.
 Dev: [Your Name], [Your Team or Org]
 Special Thanks: Rural gamers of India 🇮🇳
+
+## License
+Open-source under MIT License.
+
+yaml
+Copy code
+
+---
+
+अगर आप चाहें तो मैं साथ ही सभी HTML पेज (जैसे `index.html`, `game.html`, `rules.html` आदि) बनाना शुरू कर सकता हूँ।  
+क्या मैं `index.html` से शुरू करूं?
