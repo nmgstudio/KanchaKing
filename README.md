@@ -39,13 +39,13 @@
 ## 📁 Folder Structure
 
 Goliyaan_Game_HTML/
-│
-├── index.html                   🏠 Home/Landing Page
-├── instructions.html            📜 How to Play + Rules
+│ 
+├── index.html                    🏠 Home/Landing Page
+├── instructions.html             📜 How to Play + Rules
 ├── game.html                    🕹️ Main Game Screen
 ├── lobby.html                   👥 Multiplayer Lobby
-├── settings.html                ⚙️ Game Settings
-├── scoreboard.html              🏆 Live Scoreboard
+├── settings.html                 ⚙️ Game Settings
+├── scoreboard.html               🏆 Live Scoreboard
 ├── game-over.html               🔚 Game Over & Summary
 │
 ├── assets/
